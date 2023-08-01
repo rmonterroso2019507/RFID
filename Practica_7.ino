@@ -12,7 +12,6 @@
 #include <MFRC522.h>
 #include <SPI.h>
 #include <RTClib.h>
-#include "RTClib.h"
 
 //Directivas de preprocesador
 
