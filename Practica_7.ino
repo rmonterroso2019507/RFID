@@ -1,4 +1,11 @@
-
+/*
+ Fundacion Kinal
+ Centro Educativo Tecnico Laboral KINAL
+ Electronica
+ Grado:5to A
+ Nombre:Roberto Monterroso
+ Carne :2019507
+ */
 //Librerias
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h> 
