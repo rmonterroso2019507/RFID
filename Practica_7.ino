@@ -160,7 +160,7 @@ LCD.clear();
 LCD.setCursor(0,0);  
 LCD.print("  EEGSA - Kinal  ");
 LCD.setCursor(0,1);  
-LCD.print("  Invalid User  ");  
+LCD.print("Usuario_invalido");  
 }
 
 float get_corriente(int n_muestras) // funcion que acompana la formula para obtener el valor de corriente
